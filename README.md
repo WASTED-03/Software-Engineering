@@ -12,6 +12,6 @@ This repository contains the collaborative work for the Software Engineering cla
 4. Submit a pull request for review.
 
 ## Team Members
-- Member 1
-- Member 2
-- Member 3
+- Arnav Ashok
+- shivam Mittal
+
